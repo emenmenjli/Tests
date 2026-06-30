@@ -1,26 +1,2 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.spec
-dist/
-build/
-*.egg-info/
-
-# Environments
-.env
-.venv/
-venv/
-
-# Databases (keep db files but exclude the sqlite ones with passwords)
-data/*.db
-
-# Exclude AI assistant (website-only repo)
 ai-assistant/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Node (if any)
-node_modules/
+gaming-site/
