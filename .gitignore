@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+dist/
+build/
+*.egg-info/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Databases (keep db files but exclude the sqlite ones with passwords)
+data/*.db
+
+# Build artifacts
+ai-assistant/dist/
+ai-assistant/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if any)
+node_modules/
+
+# Generated files
+gaming-blog/build_pages.py
